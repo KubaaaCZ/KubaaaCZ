@@ -9,6 +9,8 @@ Tools, I usually use: Packet Tracer, Wireshark, Visual Studio Code, IDLE (Python
 
 Sublayers of Computer Networks which i most interested: TCP/ IP, Configuration Cisco devices (Cisco IOS), IP addressing (IPv4, IPv6), Transport sublayer of ISO/OSI model
 
+Beta tester: Windows 11 ✌️
+
 Contact info: 
 
         E-mail: jakub.kantor04@gmail.com
