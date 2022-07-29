@@ -3,7 +3,7 @@ Hi, I am Jacob
 
 I am 17 years old, I studying Computer Networks as student high school in Czech Republic and I interesting in Programming, Computer Networks and PC Hardware 
 
-Programming languages I interesting and self-learning: Python, HTML, CSS, JavaScript
+Programming languages I interesting and self-learning: Python, HTML, CSS, C# .NET, C# .NET FRAMEWORK, 
 
 Tools, I usually use: Packet Tracer, Wireshark, Visual Studio Code, IDLE (Python 3.9), VirtualBox, AIDA 64 and CrystalDiskInfo
 
