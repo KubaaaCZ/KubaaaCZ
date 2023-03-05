@@ -1,7 +1,7 @@
   
 Hi, I am Jacob
 
-I am 1 years old, I studying Computer Networks as student high school in Czech Republic and I interesting in Programming, Computer Networks and PC Hardware 
+I am 18 years old, I studying Computer Networks as student high school in Czech Republic and I interesting in Programming, Computer Networks and PC Hardware 
 
 Programming languages I interesting and self-learning: Python, HTML, CSS, C# .NET, C# .NET FRAMEWORK
 
